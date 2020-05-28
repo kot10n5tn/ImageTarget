@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="placeimg_640_640_animals2" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_animals1" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_animals" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech7" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech6" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech5" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech4" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech3" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech2" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech1" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_tech" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch8" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch7" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch6" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch5" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch4" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch3" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch2" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch1" size="0.050000 0.050000" />
+    <ImageTarget name="placeimg_640_640_arch" size="0.050000 0.050000" />
+  </Tracking>
+</QCARConfig>
